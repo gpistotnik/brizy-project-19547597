@@ -1,0 +1,1 @@
+{"routes":[{"src":"/","dest":"/index.html"},{"src":"/headliners","dest":"/headliners.html"},{"src":"/shortcuts","dest":"/shortcuts.html"},{"src":"/about","dest":"/about.html"},{"src":"/line-up","dest":"/line-up.html"},{"src":"/tickets","dest":"/tickets.html"},{"src":"/gallery","dest":"/gallery.html"},{"src":"/contact","dest":"/contact.html"},{"src":"/blog","dest":"/blog.html"}]}
